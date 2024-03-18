@@ -16,7 +16,7 @@
 
 <h2 align="left">I code with JavaScript (React,Next & Vue), Typpescript & Solidity </h2>
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg)](https://www.buymeacoffee.com/mdabdullsaz)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow.svg)](https://www.buymeacoffee.com/mdabdullsaz)
 
 ###
 
