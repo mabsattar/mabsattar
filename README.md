@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Aspiring Blockhain Dev <br>📚 I'm currently learning Rust <br>🎯 Goals: FullStack Blockchain Dev <br>🎲 Fun fact: always curious</p>
+<p align="left">✨ Blockhain <br>📚 I'm currently learning Rust <br>🎯 Goals: FullStack Blockchain Dev <br>🎲 Fun fact: always curious</p>
 
 ###
 
