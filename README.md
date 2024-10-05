@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdul Sattar and I'm a Blockchain Developer, from India </p>
+<p align="left"> I'm a Blockchain Developer </p>
 
 ###
 
