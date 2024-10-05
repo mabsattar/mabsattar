@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left"> I'm a Blockchain Developer </p>
+<p align="left"> Be Cautions, I'm a nerd  </p>
 
 ###
 
-<h2 align="left">I'm a Web3 Developer, love building on Blockchain & AI </h2>
+<h2 align="left">I'm a Blockchain Developer, I love building on blockchain, building Web3 Front-End, writing smart contracts, auditing smart contracts, building AI and more </h2>
 
 ###
 
