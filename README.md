@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Blockhain <br>📚 I'm currently learning TypeScript, Account Abstraction & Foundry <br>🎯 Goals: FullStack Blockchain Dev <br>🎲 Fun fact: always curious</p>
+<p align="left">✨ Blockhain <br>📚 Learning TypeScript, smart contract auditing & Rust <br>🎯 Goals: BlockChain Engineer <br>🎲 Fun fact: im a nerd, so will make you bore by discussing about technologies </p>
 
 ###
 
