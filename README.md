@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Blockhain <br>📚 Learning TypeScript, smart contract auditing & Rust <br>🎯 Goals: To unleash the potential of blockchain technology, empowering ordinary humans to harness its revolutionary power. <br>🎲 Fun fact: im a nerd, so will make you bore by discussing about technologies </p>
+<p align="left">✨ Blockhain <br>📚 Learning smart contract auditing Rust & TypeScript <br>🎯 Goals: To unleash the potential of blockchain technology, empowering ordinary humans to harness its revolutionary power. <br>🎲 Fun fact: im a nerd, so will make you bore by discussing about technologies </p>
 
 ###
 
-<h2 align="left">I code with JavaScript (React,Next & Vue), TypeScript & Solidity </h2>
+<h2 align="left">I code with JavaScript (Nodejs, React, Next & Vue), TypeScript, Solidity( Web3js, etherjs, rainbowkit, walletconnect & maci) and Rust </h2>
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow.svg)](https://www.buymeacoffee.com/mdabdullsaz)
 
