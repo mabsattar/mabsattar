@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I'm a Blockchain Developer, I love building on blockchain, building Web3 Front-End, writing smart contracts, auditing smart contracts, building AI and more </h2>
+<h2 align="left">I'm a Blockchain Developer, I love building Decentralize Apps, building Web3 Front-End, writing and auditing smart contracts, building AI and more </h2>
 
 ###
 
