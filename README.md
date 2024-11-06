@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with JavaScript (Nodejs, React, Next & Vue), TypeScript, Solidity( Web3js, etherjs, viem, rainbowkit, walletconnect & maci) and Rust </h2>
+<h2 align="left">I code with JavaScript TypeScript, Solidity and Rust </h2>
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow.svg)](https://www.buymeacoffee.com/mdabdullsaz)
 
