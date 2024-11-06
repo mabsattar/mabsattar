@@ -6,11 +6,12 @@
 
 ###
 
-<h2 align="left">I'm a Frontend Blockchain Developer, I love building Decentralized Apps, Web3 Front-ends, writing and auditing smart contracts, building AI and more </h2>
+<h2 align="left">I'm a Frontend Blockchain Developer, building Decentralized Apps, Web3 Front-ends, writing and auditing smart contracts and much more </h2>
 
 ###
 
-<p align="left">✨ Open Source Enthusiast <br>📚 Learning smart contract auditing Rust & TypeScript <br>🎯 Goals: To unleash the potential of blockchain technology, empowering ordinary humans to harness its revolutionary power. 
+<p align="left">✨ Open Source Enthusiast <br>📚 Learning smart contract auditing Rust & TypeScript <br>🎯 Goals: To unleash the potential of blockchain technology, empowering ordinary humans to harness its revolutionary power. <br> 🎲 Fun fact: My curiosity often gets the better of me </p> 
+
 ###
 
 <h2 align="left"> Crafting digital solutions that shape the future </h2>
