@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">✨ Focused on Decentralization <br>📚 Learning smart contract auditing Rust & TypeScript <br>🎯 Goals: To unleash the potential of blockchain technology, empowering ordinary humans to harness its revolutionary power. <br>🎲 Fun fact: im a nerd, so will make you bore by discussing about technologies </p>
-
+<p align="left">✨ Open Source Enthusiast <br>📚 Learning smart contract auditing Rust & TypeScript <br>🎯 Goals: To unleash the potential of blockchain technology, empowering ordinary humans to harness its revolutionary power. 
 ###
 
 <h2 align="left"> Crafting digital solutions that shape the future </h2>
