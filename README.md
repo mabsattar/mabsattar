@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I'm a Blockchain Developer, I love building Decentralize Apps, building Web3 Front-End, writing and auditing smart contracts, building AI and more </h2>
+<h2 align="left">I'm a Blockchain Developer, I love building Decentralize Apps, Web3 Front-ends, writing and auditing smart contracts, building AI and more </h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with JavaScript TypeScript, Solidity and Rust </h2>
+<h2 align="left"> Crafting digital solutions that shape the future </h2>
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow.svg)](https://www.buymeacoffee.com/mdabdullsaz)
 
