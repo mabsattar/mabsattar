@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left"> Be Cautions, I'm a nerd  </p>
+<p align="left"> Be cautious, I'm a nerd  </p>
 
 ###
 
-<h2 align="left">I'm a Blockchain Developer, I love building Decentralize Apps, Web3 Front-ends, writing and auditing smart contracts, building AI and more </h2>
+<h2 align="left">I'm a Frontend Blockchain Developer, I love building Decentralized Apps, Web3 Front-ends, writing and auditing smart contracts, building AI and more </h2>
 
 ###
 
-<p align="left">✨ Blockhain <br>📚 Learning smart contract auditing Rust & TypeScript <br>🎯 Goals: To unleash the potential of blockchain technology, empowering ordinary humans to harness its revolutionary power. <br>🎲 Fun fact: im a nerd, so will make you bore by discussing about technologies </p>
+<p align="left">✨ Focused on Decentralization <br>📚 Learning smart contract auditing Rust & TypeScript <br>🎯 Goals: To unleash the potential of blockchain technology, empowering ordinary humans to harness its revolutionary power. <br>🎲 Fun fact: im a nerd, so will make you bore by discussing about technologies </p>
 
 ###
 
