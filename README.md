@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Be cautious, I'm a nerd  </p>
+<p align="left"> nerd alert!!!  </p>
 
 ###
 
