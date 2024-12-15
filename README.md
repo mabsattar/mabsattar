@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left"> nerd alert!!!  </p>
-
-###
-
 <h2 align="left"> Blochain Dev </h2>
 
 ###
