@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">✨ Open Source Enthusiast <br>📚 Learning Zero-Knowledge Proofs and Advanced Smart Contract Security <br>🎯 Goals: To unleash the potential of blockchain & ZK technology, fostering a more transparent and secure digital landscape. <br> 
+<p align="left">✨ Open Source Enthusiast <br>📚 Learning Zero-Knowledge Proofs and Advanced Smart Contract Security <br>🎯 Goals: To unleash the potential of blockchain & ZK technology, fostering a more transparent and secure digital landscape.<br>🧠 Interest in Solidity, Circom/Noir, JS/TS, C & Zig.
+
 
 ###
 
