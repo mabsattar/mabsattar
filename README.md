@@ -1,16 +1,16 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"> Sup!!</h1>
 
 ###
 
-<h2 align="left"> Blochain Dev </h2>
+<h2 align="left"> Blockchain & ZKP Dev </h2>
 
 ###
 
-<p align="left">✨ Open Source Enthusiast <br>📚 Learning smart contract audit and security research. <br>🎯 Goals: To unleash the potential of blockchain technology, empowering ordinary humans to harness its revolutionary power. <br> 🎲 Fun fact: My curiosity often gets the better of me </p> 
+<p align="left">✨ Open Source Enthusiast <br>📚 Learning Zero-Knowledge Proofs and Advanced Smart Contract Security <br>🎯 Goals: To unleash the potential of blockchain & ZK technology, fostering a more transparent and secure digital landscape. <br> 
 
 ###
 
-<h2 align="left"> Crafting digital solutions that shape the future </h2>
+<h2 align="left"> Crafting innovative blockchain solutions and pushing the boundaries of zero-knowledge cryptography </h2>
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow.svg)](ko-fi.com/absattar)
 
