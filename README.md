@@ -17,7 +17,7 @@
 
 <h2 align="left"> Crafting innovative blockchain solutions and pushing the boundaries of zero-knowledge cryptography </h2>
 
-[![Suooirt me on Ko-fi](https://www.vectorlogo.zone/logos/ko-fi/ko-fi-ar21.svg)](ko-fi.com/absattar)
+[![Suooirt me on Ko-fi](https://www.vectorlogo.zone/logos/ko-fi/ko-fi-ar21.svg)](https://ko-fi.com/absattar)
 
 ###
 
