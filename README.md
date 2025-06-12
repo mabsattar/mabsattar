@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Open Source Enthusiast <br>📚 Learning Zero-Knowledge Proofs and Advanced Smart Contract Security <br>🎯 Goals: To unleash the potential of blockchain & ZK technology, fostering a more transparent and secure digital landscape.<br>🧠 Langs: Solidity, JS/TS, Circom/Noir, C & Zig. <br>
+<p align="left">✨ Open Source Enthusiast <br>📚 Learning Zero-Knowledge Proofs and Advanced Smart Contract Security <br>🎯 Goals: To unleash the potential of blockchain & ZK technology, fostering a more transparent and secure digital landscape.<br>🧠 Langs: Solidity, JS/TS, Circom/Noir, C & Rust <br>
 
 ### Currently Exploring:
 - Smart Contract Security Best Practices
