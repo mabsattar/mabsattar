@@ -1,7 +1,3 @@
-<h1 align="left"> Sup!!</h1>
-
-###
-
 <h2 align="left"> Blockchain & ZKP Dev </h2>
 
 ###
